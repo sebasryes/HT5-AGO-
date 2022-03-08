@@ -8,13 +8,13 @@ import simpy
 import random
 import statistics
 
+proc = 1
+procesos = 25
+inst = 3
 capRAM = 100
 interval = 10
 res = []
 random.seed(11)
-proc = 1
-procesos = 25
-inst = 3
 
 
 #Se hacen funciones para cada parte del proceso
