@@ -1,3 +1,10 @@
+# Universidad del Valle de Guatemala 
+# Algoritmos y estrucutras de datos 
+# Diana Díaz 21066
+# Mario Puente 21290
+# Sebastián Reyes 21139
+
+#imports
 import simpy
 import random
 import statistics
